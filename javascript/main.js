@@ -8,7 +8,6 @@ var imgActual=0,ControlCambioImagen=0;
 var nubes1,nubes2;
 var BoolSaltar=false;
 var movSalto;
-var velocidadJuego=6;
 var CrearSigArbol=true;
 var ArbolesSaltados=0;
 var puntos;
